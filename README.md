@@ -2,6 +2,8 @@
 
 A Rust-based CLI audio transcoder employing a hybrid approach to audio processing leveraging native crates and FFmpeg for optimized, memory-safe, and multi-threaded audio processing. Supporting a plethora of audio codecs (lossy and lossless), the hybrid design aims to combine Rust's guarantees of memory safety and optimization with FFmpeg's extensive format support and highly optimized internal processing.
 
+![alt text](public/demo_wav_wav.png)
+
 ## Features
 
 - Hybrid Engine for Transcoding
